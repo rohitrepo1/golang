@@ -1,1 +1,1 @@
-# golang
+# created this repo to practice GO lang with aws  and GCP
